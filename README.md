@@ -1,9 +1,8 @@
 # SonarSupervisoryWSN
-To control the flow of a wireless sensor network a supervisory algorithm for the network was developed. This project was developed in 2015 by the technological initiation program of the Pontifical Catholic University of Campinas
 
-Projeto de uso de RSSF para controle e automação de processos em ambiente industriais
+# Projeto de uso de RSSF para controle e automação de processos em ambiente industriais
 
-Kevin Matheus Martins
+ **Kevin Matheus Martins**
 
 Faculdade de engenharia elétrica
 
